@@ -77,8 +77,8 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'adl-test',   # con guion, tal como pide el enunciado
-        'USER': 'admin',   # o tu usuario
-        'PASSWORD': '1234',       # tu password si aplica
+        'USER': 'admin',   
+        'PASSWORD': '1234',      
         'HOST': 'localhost',
         'PORT': '5432',
     }
